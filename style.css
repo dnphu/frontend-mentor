@@ -67,6 +67,10 @@ body {
   line-height: 150%;
   color: #111111;
 }
+.title:hover {
+  color: #F4D04E;
+  cursor: pointer;
+}
 .description {
   font-size: 16px;
   font-weight: 500;
